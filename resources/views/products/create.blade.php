@@ -45,5 +45,5 @@
     </div>
 </form>
 
-<p class="text-center text-primary"><small>Tutorial by ItSolutionStuff.com</small></p>
+<p class="text-center text-primary"><small>By Sajeel with hate XD :> </small></p>
 @endsection

@@ -51,5 +51,5 @@
 
 {!! $roles->links('pagination::bootstrap-5') !!}
 
-<p class="text-center text-primary"><small>Made with Hate By Introvertinfocus</small></p>
+<p class="text-center text-primary"><small>Made with Hate By SajeelWebDev</small></p>
 @endsection
